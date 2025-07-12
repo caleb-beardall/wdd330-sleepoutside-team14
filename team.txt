@@ -5,7 +5,7 @@ Netlify:
 lively-stroopwafel-1b28d8.netlify.app
 
 Trello:
-https://trello.com/b/tzz3LPth/sleep-outside-team-16
+https://trello.com/b/X3qkEqDa/sleep-outside-team-16
 
 GitHub:
 https://github.com/caleb-beardall/wdd330-sleepoutside-team14
